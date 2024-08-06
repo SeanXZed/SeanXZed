@@ -47,9 +47,4 @@ I'm a self-taught full stack developer in the making, second-time founder and VC
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
----
-### 🔥 Github Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SeanXZed&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXZed&layout=compact&theme=vision-friendly-dark)](https://github.com/SeanXZed/github-readme-stats)
 
