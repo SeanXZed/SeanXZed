@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://giphy.com/embed/RpX3MPpmKt8FwpC23r" width="400" height="480"/>
+  <img src="https://giphy.com/gifs/cat-matrix-catrix-FcqKy4Kj7XOK0hCW4g" width="480" height="271"/>
 </div>
 
 <div id="badges">
