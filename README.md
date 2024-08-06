@@ -18,7 +18,7 @@
 </div>
 
 ### About Me:
-I'm a self-taught full stack developer in the making, second-time founder and VC investor.
+I'm a self-taught full stack developer, second-time founder and VC investor.
 
 - 🔭 I’m currently working on my new startup - COMPAS3 AI
 - 🌱 I’m currently learning Next.js Typescript
