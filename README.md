@@ -10,7 +10,7 @@ About Me:
 I'm a self-taught full stack developer
 
 - 🔭 I’m currently working on my new startup - COMPAS3 AI
-- # I'm proficient in mathematical modelling and machine learning in Python
+- 🚀 I'm proficient in mathematical modelling and machine learning in Python
 - 🌱 I’m currently learning Next.js Typescript
 - ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran
 
