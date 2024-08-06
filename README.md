@@ -1,4 +1,9 @@
+<div id="header" align="center">
+  <img src="[https://giphy.com/embed/wwg1suUiTbCY8H8vIA](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTd4MzRlZ3d1cWU3ZTJ0dTRva21meWVoYTByaWtuNjA4OG1ibTUwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)" width="480" height="480"/>
+</div>
+
 ## Hi there 👋
+
 
 <!--
 **SeanXZed/SeanXZed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
