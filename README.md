@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://giphy.com/embed/RpX3MPpmKt8FwpC23r" width="600" height="300"/>
+  <img src="https://giphy.com/embed/RpX3MPpmKt8FwpC23r" width="400" height="480"/>
 </div>
 
 <div id="badges">
@@ -22,3 +22,4 @@ I'm a self-taught full stack developer in the making, second-time founder and VC
 
 ---
 ### :hammer_and_wrench: Languages and Tools
+
