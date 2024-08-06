@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+<div align="center">
+  <img src="https://giphy.com/embed/RpX3MPpmKt8FwpC23r" width="600" height="300"/>
+</div>
+
 <div id="badges">
     <a href="https://www.linkedin.com/in/seanxinzhou/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
