@@ -9,8 +9,8 @@
 About Me:
 I'm a self-taught full stack developer
 
-- :telescope: I’m currently working on my new startup - COMPAS3 AI
-- :seedling: I'm proficient in mathematical modelling and machine learning in Python
+- 🔭 I’m currently working on my new startup - COMPAS3 AI
+- # I'm proficient in mathematical modelling and machine learning in Python
 - 🌱 I’m currently learning Next.js Typescript
 - ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran
 
