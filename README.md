@@ -51,7 +51,5 @@ I'm a self-taught full stack developer in the making, second-time founder and VC
 ### 🔥 Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SeanXZed&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=SeanXZed&theme=algolia&show_icons=true)](https://github.com/SeanXZed)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXZed&layout=compact&theme=vision-friendly-dark)](https://github.com/SeanXZed/github-readme-stats)
 
