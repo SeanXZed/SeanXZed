@@ -21,8 +21,9 @@
 I'm a second-time founder and self-taught full stack developer.
 
 - 🔭 I’m currently working on my new startup - COMPAS3 AI
-- 🌱 I have developed backend skills in Python and I’m currently learning Next.js Typescript to cover the frontend
+- 🌱 I’m currently learning Next.js with Typescript 
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python
+- 🔥 I'm a CFA charterholder, so finance is my thing!
 - ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport economist/planner
 
 ---
