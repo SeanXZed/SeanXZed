@@ -18,10 +18,10 @@
 </div>
 
 ### About Me:
-I'm a self-taught full stack developer, second-time founder and VC investor.
+I'm a second-time founder and self-taught full stack developer.
 
 - 🔭 I’m currently working on my new startup - COMPAS3 AI
-- 🌱 I’m currently learning Next.js Typescript
+- 🌱 I have developed backend skills in Python and I’m currently learning Next.js Typescript to cover the frontend
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python
 - ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport economist/planner
 
