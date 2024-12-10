@@ -25,8 +25,8 @@ I am a self-taught full-stack developer with a passion for building and creating
 - 🌱 I’m learning Next.js with Typescript 
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python
 - 🔥 I'm a CFA® Charterholder, so finance is my thing!
-- ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport economist/planner
 - 🐈 I have two cats to feed - Ash & Nacho
+- ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport economist/planner
 - 📮 Reach out to me: sean.xin.zhou@outlook.com
 
 ---
