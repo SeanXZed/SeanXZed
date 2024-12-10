@@ -18,10 +18,11 @@
 </div>
 
 ### About Me:
-I'm a second-time founder and self-taught full stack developer.
+I am a self-taught full-stack developer with a passion for building and creating innovative solutions.
 
-- 🔭 I’m currently working on COMPAS3 AI
-- 🌱 I’m currently learning Next.js with Typescript 
+- 🔭 I’m currently working on [COMPAS3 AI](https://www.compas3.ai/)
+- 🤖 I'm building AI Agents to streamline the investment workflow of [Acacia Venture Capital Partners](https://www.acaciainvest.com/)
+- 🌱 I’m learning Next.js with Typescript 
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python
 - 🔥 I'm a CFA® Charterholder, so finance is my thing!
 - ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport economist/planner
