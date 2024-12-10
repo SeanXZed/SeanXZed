@@ -26,7 +26,7 @@ I am a self-taught full-stack developer with a passion for building and creating
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python
 - 🔥 I'm a CFA® Charterholder, so finance is my thing!
 - 🐈 I have two cats to feed - Ash & Nacho
-- ⚡ Fun fact: Jazz trumpeter in the making; Self-claimed CrossFit veteran (Global ranking top 40% once upon a time); Ex-transport planner/modeller
+- ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport planner/modeller
 - 📮 Reach out to me: sean.xin.zhou@outlook.com
 
 ---
