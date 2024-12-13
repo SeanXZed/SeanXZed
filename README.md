@@ -22,7 +22,7 @@ I am a self-taught full-stack developer with a passion for building and creating
 
 - 🔭 I’m currently working on [COMPAS3 AI](https://www.compas3.ai/)
 - 🤖 I'm building AI Agents to streamline the workflow for [Acacia Venture Capital Partners](https://www.acaciainvest.com/)
-- 🌱 I’m learning Next.js with Typescript, so I don't need UX/UI designers and frontend engineers to build an MVP.
+- 🌱 I’m learning Next.js with Typescript, so I can bootstrap without UX/UI designers and frontend engineers.
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python.
 - 🔥 I'm a CFA® Charterholder, so finance is my thing!
 - 🐈 I have two cats to feed - Ash & Nacho
