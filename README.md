@@ -17,8 +17,6 @@
   <h1>Hi there 👋, I'm Sean</h1>
 </div>
 
----
-
 ### 🧑‍💻 About Me
 
 I’m a **self-taught full-stack developer** with a passion for building innovative solutions.
@@ -59,7 +57,5 @@ I’m a **self-taught full-stack developer** with a passion for building innovat
 ### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXZed&layout=compact&theme=tokyonight)
-
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanXZed&show_icons=true&theme=tokyonight)
 
 ---
