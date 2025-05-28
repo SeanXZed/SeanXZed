@@ -12,10 +12,12 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a> -->
   </div>
-
   <img src="https://komarev.com/ghpvc/?username=SeanXZed&style=flat-square&color=blue" alt="Profile Views"/>
-  <h1>Hi there 👋, I'm Sean</h1>
 </div>
+
+---
+
+<h1>Hi there 👋, I'm Sean</h1>
 
 ### 🧑‍💻 About Me
 
@@ -54,8 +56,18 @@ I’m a **self-taught full-stack developer** with a passion for building innovat
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanXZed&layout=compact&theme=tokyonight)
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
+</div>
+
+<p align="center">
+  🐍 Python &nbsp;|&nbsp; 💙 TypeScript &nbsp;|&nbsp; ⚛️ React &nbsp;|&nbsp; ⚡ Next.js
+</p>
 
 ---
