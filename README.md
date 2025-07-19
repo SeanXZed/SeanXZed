@@ -20,7 +20,7 @@
 ### About Me:
 I am a self-taught full-stack developer with a passion for building and creating innovative solutions.
 
-- 🔭 I’m currently working on a stealth project - [COMPAS3 AI](https://www.compas3.ai/)
+- 🔭 I’m currently working on [COMPAS3 AI](https://www.compas3.ai/)
 - 🤖 I'm building AI Agents to streamline the workflow for [Acacia Venture Capital Partners](https://www.acaciainvest.com/)
 - 🌱 I’m building with a frontend in Next.js + TypeScript and a backend in Python.
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python.
