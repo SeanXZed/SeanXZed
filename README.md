@@ -20,12 +20,12 @@
 ### About Me:
 I am a self-taught full-stack developer with a passion for building and creating innovative solutions.
 
-- 🔭 I’m currently working on [COMPAS3 AI](https://www.compas3.ai/)
-- 🤖 I'm building AI Agents to streamline the workflow for [Acacia Venture Capital Partners](https://www.acaciainvest.com/)
+- 🔭 I’m currently working on [COMPAS3 AI](https://www.compas3.ai/).
+- 🤖 I'm building AI Agents to streamline the workflow for [Acacia Venture Capital Partners](https://www.acaciainvest.com/).
 - 🌱 I’m building with a frontend in Next.js + TypeScript and a backend in Python.
 - 🚀 I'm proficient in mathematical modelling and machine learning in Python.
 - 🔥 I'm a CFA® Charterholder, so finance is my thing!
-- 🐈 I have two cats to feed - Ash & Nacho
+- 🐈 I have two cats to feed - Ash & Nacho.
 - ⚡ Fun fact: Jazz trumpeter in the making; CrossFit veteran; Ex-transport planner/modeller
 
 ---
